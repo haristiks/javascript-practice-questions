@@ -156,7 +156,7 @@ What is async/await in JavaScript?
 
 `async/await` is a syntax in JavaScript that allows you to work with asynchronous code more comfortably and with less boilerplate. It was introduced in ECMAScript 2017 (ES8) and provides a more concise and readable way to write asynchronous code compared to using Promises and callback functions.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Here's a breakdown of `async/await`:
 
